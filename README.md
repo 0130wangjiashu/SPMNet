@@ -29,7 +29,7 @@ Very-high-resolution (VHR) remote sensing images are characterized by extremely 
 
 Note that the code in this repo runs under **Linux** system. We have not tested whether it works under other OS.
 
-The repo is based on the [VMamba repo](https://github.com/MzeroMiko/VMamba), thus you need to install it first. The following installation sequence is taken from the VMamba repo. 
+The repo is based on the [VMamba repo](https://github.com/MzeroMiko/VMamba) and [RSMCD repo](https://github.com/NJU-LHRS/Official_Remote_Sensing_Mamba) , thus you need to install it first. The following installation sequence is taken from the VMamba repo. 
 
 **Step 1: Clone the repository:**
 
@@ -135,4 +135,4 @@ If this code or dataset contributes to your research, please kindly consider cit
 
 
 ## 🤝Acknowledgments
-This project is based on VMamba ([paper](https://arxiv.org/abs/2401.10166), [code](https://github.com/MzeroMiko/VMamba)), ScanNet [code](https://github.com/NJU-LHRS/Official_Remote_Sensing_Mamba). Thanks for their excellent works!!
+This project is based on VMamba ([paper](https://arxiv.org/abs/2401.10166), [code](https://github.com/MzeroMiko/VMamba)), RSMCD [code](https://github.com/NJU-LHRS/Official_Remote_Sensing_Mamba). Thanks for their excellent works!!
