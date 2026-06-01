@@ -16,7 +16,7 @@
 
 ## 🛎️Updates
 * **` Notice🐍🐍`**: SPMNet has been accepted by [IEEE TGRS](https://ieeexplore.ieee.org/document/10981441)! We'd appreciate it if you could give this repo a ⭐️**star**⭐️ and stay tuned!!
-* **` June 17th, 2024`**: SPMNte has been accepted by [IEEE TGRS](https://ieeexplore.ieee.org/document/10981441)!!
+* **` Apri 30th, 2025`**: SPMNte has been accepted by [IEEE TGRS](https://ieeexplore.ieee.org/document/10981441)!!
 
 
 ## 🔭Overview
